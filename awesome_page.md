@@ -1,6 +1,6 @@
 # Welcome to this awesome page!
 
-**Bold text goes here!** *Here are some italics*
+**Is this bold?** *Here are some italics*
 
 [Google](http://google.com)
 
